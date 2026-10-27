@@ -1,0 +1,7 @@
+{
+  "name": "TForwarder Web - Telegram Auto Forwarder",
+  "description": "Auto-forward Telegram messages between channels, groups, and chats with advanced keyword filters, clean copy mode, and real-time rule monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
